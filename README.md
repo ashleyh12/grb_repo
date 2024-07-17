@@ -15,6 +15,14 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 * Download BatAnalysis version 1.1.0 (pip install batanalysis 1.1.0)
 * ....
 
+## Built With:
+* [SciServer]([https://apps.sciserver.org/login-portal//login?callbackUrl=https%3A%2F%2Fapps.sciserver.org%2Fdashboard%2F]) - Framework used
+* [Jupyter]([http://www.dropwizard.io/1.0.2/docs/](https://jupyter.org/)) - Dev environment used
+* [Astropy]([[[http://www.dropwizard.io/1.0.2/docs/](https://jupyter.org/)](https://www.astropy.org/)](https://github.com/astropy/astropy)), [Numpy]([[numpy](https://github.com/numpy/numpy)])  - other Python modules used
+
+
+
+
 
 ## Sources:
 1)  Parsotan et. al. 2023 (submitted to ApJ)
@@ -22,4 +30,4 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 3)  [https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 4)  https://arxiv.org/pdf/1006.5125
 
-### A third-level heading
+
