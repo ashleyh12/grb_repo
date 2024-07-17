@@ -10,7 +10,7 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 ## Prerequisites
 
 * Download Python 3.8 or larger
-* Ensure you have HEASARC version
+* Ensure you have HEASARC version ___
 * Create a Sciserver account (??)
 * Download BatAnalysis version 1.1.0 (pip install batanalysis 1.1.0)
 * ....
