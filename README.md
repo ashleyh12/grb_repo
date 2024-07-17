@@ -28,8 +28,7 @@ To install BatAnalysis, type the following command in your local terminal:
 
 ```
 pip install batanalysis 1.1.0
-"""
-
+```
 
 
 ## Sources:
