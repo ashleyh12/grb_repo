@@ -1,7 +1,7 @@
 # grb_repo
 
 
-# Gamma Ray Burst (GRB) Repo for various GRBs and their afterglows
+# Gamma Ray Burst Repo for various GRBs and their afterglows
 
 Gamma Ray Bursts are short, intense flashes of gamma ray light (high-energy radiation). They can last anywhere between a few milliseconds to a couple of minutes to a few hours. 
 After a gamma ray burst occurs, it creates a "flash" of light and an afterglow is displayed, emitting radio, infrared, optical, UV, X-ray, as well as gamma-ray light at longer wavelengths (radiation also peaks at these wavelengths as well).
