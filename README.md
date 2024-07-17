@@ -15,12 +15,19 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 * Download BatAnalysis version 1.1.0 (pip install batanalysis 1.1.0)
 * ....
 
+
 ## Built With:
 * [SciServer](https://apps.sciserver.org/login-portal//login?callbackUrl=https%3A%2F%2Fapps.sciserver.org%2Fdashboard%2F) - Framework used
 * [Jupyter](https://jupyter.org/) - Dev environment used
 * [Astropy](https://github.com/astropy/astropy), [Numpy](https://github.com/numpy/numpy), [Matplotlib.py](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html) - other Python modules and libraries used
 
 
+## Installation:
+
+To install BatAnalysis, type the following command in your local terminal
+'''
+pip install batanalysis 1.1.0
+'''
 
 
 
