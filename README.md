@@ -9,7 +9,8 @@ After a gamma ray burst occurs, it creates a "flash" of light and an afterglow i
 
 ## Prerequisites
 
-##Sources:
+
+## Sources:
 1)  Parsotan et. al. 2023 (submitted to ApJ)
 2)  https://science.nasa.gov/universe/gamma-ray-bursts-harvesting-knowledge-from-the-universes-most-powerful-explosions/
 3)  [https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
