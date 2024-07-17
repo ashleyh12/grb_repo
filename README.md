@@ -4,10 +4,16 @@
 ## Introduction to GRBs and their afterglows
 
 Gamma Ray Bursts are short, intense flashes of gamma ray light (high-energy radiation). They can last anywhere between a few milliseconds to a couple of minutes to a few hours. 
-After a gamma ray burst occurs, it creates a "flash" of light and an afterglow is displayed, emitting radio, infrared, optical, UV, X-ray, as well as gamma-ray light at longer wavelengths (radiation peaks at these wavelengths as well). To exemplify how powerful GRBs are, a single gamma ray photon is more powerful and energetic than a million visible photons combined. Understanding 
+After a gamma ray burst occurs, a flash of light is created and an afterglow is displayed, emitting radio, infrared, optical, UV, X-ray, as well as gamma-ray light at longer wavelengths (radiation peaks at these wavelengths as well). To exemplify how powerful GRBs are, a single gamma ray photon is more powerful and energetic than a million visible photons combined. Understanding 
 
 
 ## Prerequisites
+
+* Download Python 3.8 or larger
+* Ensure you have HEASARC version
+* Create a Sciserver account (??)
+* Download BatAnalysis version 1.1.0 (pip install batanalysis 1.1.0)
+* ....
 
 
 ## Sources:
