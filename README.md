@@ -24,10 +24,11 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 
 ## Installation:
 
-To install BatAnalysis, type the following command in your local terminal
-'''
+To install BatAnalysis, type the following command in your local terminal:
+
+"""
 pip install batanalysis 1.1.0
-'''
+"""
 
 
 
