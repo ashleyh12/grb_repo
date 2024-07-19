@@ -31,6 +31,12 @@ To install BatAnalysis, type the following command in your terminal:
 pip install batanalysis 1.1.0
 ```
 
+Next, clone and install the repo
+```
+git clone https://github.com/parsotat/BatAnalysis.git
+cd BatAnalysis/
+pip install -e .
+```
 
 ## Sources:
 1)  Parsotan et. al. 2023 (submitted to ApJ)
