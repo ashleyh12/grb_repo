@@ -11,7 +11,7 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 * [Python 3](https://www.anaconda.com/products/distribution)
 * [SciServer](https://apps.sciserver.org/login-portal//login?callbackUrl=https%3A%2F%2Fapps.sciserver.org%2Fdashboard%2F) - Framework used
 * [Jupyter](https://jupyter.org/) - Dev environment used
-* [Astropy](https://github.com/astropy/astropy), [Numpy](https://github.com/numpy/numpy), [Matplotlib.py](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html), [Swiftbat](https://github.com/lanl/swiftbat_python) - Python modules and libraries used
+* [Astropy](https://github.com/astropy/astropy), [Numpy](https://github.com/numpy/numpy), [Matplotlib.py](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html), [BatAnalysis](https://github.com/parsotat/BatAnalysis?tab=readme-ov-file#installation) - Python modules and libraries used
 
 
 ## Necessary tools and software for this project:
