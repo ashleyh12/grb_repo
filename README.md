@@ -18,7 +18,6 @@ After a gamma ray burst occurs, a flash of light is created and an afterglow is 
 
 * A Sciserver account (optional?)
 * Download Python 3.9 or larger using [Anaconda](https://www.anaconda.com/download)
-* Download Swiftbat (link above)
 * [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/install.html) version >= 6.33.1
 * BatAnalysis version 1.1.0
   
