@@ -44,3 +44,9 @@ pip install -e .
 5)  https://arxiv.org/abs/1402.7022
 
 
+## Contact Information:
+Personal Email Address: ashleyhaynes2002@gmail.com
+LinkedIn: https://www.linkedin.com/in/ashley-haynes-6b0b29221/
+
+
+
