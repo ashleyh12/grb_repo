@@ -8,8 +8,8 @@ Gamma Ray Bursts (GRBs) are short, intense flashes of gamma ray light (high-ener
 
 ## Built With:
 * [Python 3](https://www.anaconda.com/products/distribution)
-* [SciServer](https://apps.sciserver.org/login-portal//login?callbackUrl=https%3A%2F%2Fapps.sciserver.org%2Fdashboard%2F) - Framework used
-* [Jupyter](https://jupyter.org/) - Dev environment used
+* [SciServer](https://apps.sciserver.org/login-portal//login?callbackUrl=https%3A%2F%2Fapps.sciserver.org%2Fdashboard%2F)
+* [Jupyter](https://jupyter.org/) 
 * [Astropy](https://github.com/astropy/astropy), [Numpy](https://github.com/numpy/numpy), [Matplotlib.py](https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html), [BatAnalysis](https://github.com/parsotat/BatAnalysis?tab=readme-ov-file#installation) - Python modules and libraries used
 
 
