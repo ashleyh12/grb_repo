@@ -45,8 +45,8 @@ pip install -e .
 
 
 ## Contact Information:
-Personal Email Address: ashleyhaynes2002@gmail.com
-LinkedIn: https://www.linkedin.com/in/ashley-haynes-6b0b29221/
+* Personal Email Address: ashleyhaynes2002@gmail.com
+* LinkedIn: https://www.linkedin.com/in/ashley-haynes-6b0b29221/
 
 
 
