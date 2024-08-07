@@ -49,6 +49,6 @@ pip install -e .
 * LinkedIn: https://www.linkedin.com/in/ashley-haynes-6b0b29221/
 * Resume: https://drive.google.com/file/d/1Rs9DotlByhQvoxYRRWC2eOObVfhmXBt4/view?usp=sharing
 
-##Link to poster: https://docs.google.com/presentation/d/1radlVLrDmlQCQcbwXopTRZ4Ef6bHPdL_/edit?usp=sharing&ouid=100564068907801649407&rtpof=true&sd=true
+## Link to poster: https://docs.google.com/presentation/d/1radlVLrDmlQCQcbwXopTRZ4Ef6bHPdL_/edit?usp=sharing&ouid=100564068907801649407&rtpof=true&sd=true
 
 
