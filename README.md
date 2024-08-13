@@ -3,7 +3,9 @@
 
 ## Introduction to GRBs and their afterglows
 
-Gamma Ray Bursts (GRBs) are short, intense flashes of gamma ray light (high-energy radiation). They can last anywhere between a few milliseconds to a couple of minutes to a few hours. The first burst of gamma rays, also known as the prompt phase/emission, can last from a few milliseconds to a few tens of seconds. After the prompt phase, a burst of gamma-ray light is emitted, and the jets from the GRB interact with the surrounding material, producing an afterglow (ranging from X-ray to radio wavelengths). The duration of an afterglow can last anywhere between a few hours to a few weeks. To exemplify how powerful GRBs are, a single gamma ray photon is more powerful and energetic than a million visible photons combined. In conclusion, GRBs help improve our understanding of astrophysical processes as well as the evolution of galaxies.
+Gamma Ray Bursts (GRBs) are short, intense flashes of gamma ray light (high-energy radiation). They can last anywhere between a few milliseconds to a couple of minutes to a few hours. The first burst of gamma rays, also known as the prompt phase/emission, can last from a few milliseconds to a few tens of seconds. After the prompt phase, a burst of gamma-ray light is emitted, and the jets from the GRB interact with the surrounding material, producing an afterglow (ranging from X-ray to radio wavelengths). The duration of an afterglow can last anywhere between a few hours to a few weeks. To exemplify how powerful GRBs are, a single gamma ray photon is more powerful and energetic than a million visible photons combined. In conclusion, GRBs help improve our understanding of astrophysical processes as well as the evolution of galaxies. 
+
+For a more visual explanation of Gamma Ray Bursts: https://youtu.be/4ExgO1ilP3s?si=LJnANPXQYYWu7VJU
 
 
 ## Built With:
